@@ -4,5 +4,4 @@ ccccc
 dddd
 cccc
 this is a man
-that
-ok
+this is tom
